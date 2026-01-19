@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Samuel+Francis&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&separator=%3C&lines=Hello%2C+I%C2%B4m+Samuel+Francis!%3CI%C2%B4m+naturally+Brazilian%2C+MG%3CWelcome+to+my+GitHub+Profile!%3CConsole.WriteLine+(%22;)%22)%3C;))](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&separator=%3C&lines=Hello%2C+I%C2%B4m+Samuel+Francis!%3CI%C2%B4m+naturally+Brazilian%2C+MG%3CWelcome+to+my+GitHub+Profile!%3CConsole.WriteLine+(%22;)%22)%3C;)" alt="Typing SVG" /></a>
 <div align="center">
   <img width="450px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuriLRodrigues&theme=github_dark" />
   <img width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=yurilrodrigues&theme=dark&layout=compact&langs_count=6" />
