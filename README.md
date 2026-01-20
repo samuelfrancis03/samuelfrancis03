@@ -25,8 +25,10 @@
 ### 🙋‍♂️ About Me:
 <ul>
   <li>🤩️ Passionate about Tecnologia, Music and Soccer.</li>
-  <li>🚀 I'm studying Back-end, but my long-term goal is to become a Full-Stack developer.</li>
-  <li>💠 Continuously evolving <strong>React.js</strong> and its ecosystem.</li>
+  <li>👨‍💻I´m currently working in Technical Support. </li>
+  <li>🚀I´m currently learning .NET.</li>
+  <li>📫How to reach me: samuelfrancis03@hotmail.com</li>
+  <li>🧔🏻‍♂️Pronouns: He/Him </li>
 </ul>
 <div style="displey; inline_block">  
   <a href="https://www.instagram.com/samuel.rocha__/" target="_blank"><img align="center" alt="Samu-instagram" height="80" width="100" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
