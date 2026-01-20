@@ -9,6 +9,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuelfrancis03)](https://github.com/samuelfrancis03/github-readme-stats)
 
+<div align="center">
+  <img width="450px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelfrancis03&theme=github_dark" />
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=samuelfrancis03&theme=dark&layout=compact&langs_count=6" />
+  <br />
+</div>
+
 ##
 
 ### 🦾👨‍💻My Stacks
