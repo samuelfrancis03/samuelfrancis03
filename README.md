@@ -8,12 +8,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelfrancis03&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuelfrancis03)](https://github.com/samuelfrancis03/github-readme-stats)
-[![wakatime](https://wakatime.com/badge/user/ca1cf7d7-a842-4a9b-8503-64d6ef62434d.svg)](https://wakatime.com/@ca1cf7d7-a842-4a9b-8503-64d6ef62434d)
 
 <div align="center">
   <img width="450px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelfrancis03&theme=github_dark" />
-  <img width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=samuelfrancis03&theme=dark&layout=compact&langs_count=6" />
-  <br />
 </div>
 
 ##
