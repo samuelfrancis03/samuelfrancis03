@@ -32,8 +32,7 @@
   <li>🧔🏻‍♂️Pronouns: He/Him </li>
 </ul>
 <div style="displey; inline_block">  
-  <a href="https://www.instagram.com/samuel.rocha__/" target="_blank"><img align="center" alt="Samu-instagram" height="80" width="100" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/samuel-rocha03/" target="_blank"><img align="center" alt="Samu-instagram" height="80" width="100" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+  <a href="https://www.linkedin.com/in/samuel-rocha03/" target="_blank"><img align="center" alt="Samu-instagram" height="60" width="90" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 </div>
 <br/>
 
